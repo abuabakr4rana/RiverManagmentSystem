@@ -1,3 +1,0 @@
-Flood Managment System
-It is a river managment system made in C graphics. In which diffrent values are taken to meaure the level of danger in the rivers. If water level is less than the specific level than 
-color of that river(circle) will be green and if the value exceed from that values than color will be red.   
